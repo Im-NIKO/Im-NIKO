@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Im-NIKO
+===
 - 👀 I’m interested in Front-end
+===
 - 🌱 I’m currently learning react & redux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me telegram @Work_NIKO_ZayshL
